@@ -1,6 +1,8 @@
 #Universidade Mogi das Cruzes
-#Alunos: Ivens Richard(RGM:11252100378) - Caue Sena Santos(RGM:11252100698)
-#Projeto para máteria de Software Básico - Sistema para oficinia, para criação e edição de ordens de serviços
+#Alunos: Ivens Richard (RGM:11252100378) - Caue Sena Santos (RGM:11252100698).
+#Projeto para máteria de Software Básico.
+#Sistema CRUD para oficina, para criação e edição de ordens de serviços.
+
 import os
 from tabulate import tabulate
 
